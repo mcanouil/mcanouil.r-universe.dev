@@ -1,0 +1,66 @@
+[
+  {
+    "package": "CARoT",
+    "url": "https://github.com/umr1283/CARoT"
+  },
+  {
+    "package": "clere",
+    "url": "https://github.com/mcanouil/clere"
+  },
+  {
+    "package": "dgapaq",
+    "url": "https://github.com/umr1283/dgapaq"
+  },
+  {
+    "package": "dmapaq",
+    "url": "https://github.com/umr1283/dmapaq"
+  },
+  {
+    "package": "eggla",
+    "url": "https://github.com/mcanouil/eggla"
+  },
+  {
+    "package": "ggFunctions",
+    "url": "https://github.com/mcanouil/ggFunctions"
+  },
+  {
+    "package": "ggpacman",
+    "url": "https://github.com/mcanouil/ggpacman"
+  },
+  {
+    "package": "IMA2",
+    "url": "https://github.com/mcanouil/IMA2"
+  },
+  {
+    "package": "insane",
+    "url": "https://github.com/mcanouil/insane"
+  },
+  {
+    "package": "mc",
+    "url": "https://github.com/mcanouil/mc"
+  },
+  {
+    "package": "MiSTr",
+    "url": "https://github.com/mcanouil/MiSTr"
+  },
+  {
+    "package": "NACHO",
+    "url": "https://github.com/mcanouil/NACHO"
+  },
+  {
+    "package": "rain",
+    "url": "https://github.com/umr1283/rain"
+  },
+  {
+    "package": "rocketchatr",
+    "url": "https://github.com/mcanouil/rocketchatr"
+  },
+  {
+    "package": "snpEnrichment",
+    "url": "https://github.com/mcanouil/snpEnrichment"
+  },
+  {
+    "package": "umr1283",
+    "url": "https://github.com/umr1283/umr1283"
+  }
+]
