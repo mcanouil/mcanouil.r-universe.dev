@@ -14,7 +14,8 @@ urls <- c(
   "https://github.com/umr1283/dmapaq",
   "https://github.com/umr1283/dgapaq",
   "https://github.com/umr1283/CARoT",
-  "https://github.com/umr1283/rain"
+  "https://github.com/umr1283/rain",
+  "https://github.com/briatte/ggnetwork"
 )
 jsonlite::write_json(
   x = data.frame(

@@ -24,6 +24,10 @@
     "url": "https://github.com/mcanouil/ggFunctions"
   },
   {
+    "package": "ggnetwork",
+    "url": "https://github.com/briatte/ggnetwork"
+  },
+  {
     "package": "ggpacman",
     "url": "https://github.com/mcanouil/ggpacman"
   },
