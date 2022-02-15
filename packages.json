@@ -46,5 +46,9 @@
   {
     "package": "snpEnrichment",
     "url": "https://github.com/mcanouil/snpEnrichment"
+  },
+  {
+    "package": "umr1283",
+    "url": "https://github.com/umr1283/umr1283"
   }
 ]

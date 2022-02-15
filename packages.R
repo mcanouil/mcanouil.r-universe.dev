@@ -10,7 +10,7 @@ urls <- c(
   "https://github.com/mcanouil/insane",
   "https://github.com/mcanouil/NACHO",
   "https://github.com/mcanouil/eggla",
-  # "https://github.com/umr1283/umr1283",
+  "https://github.com/umr1283/umr1283",
   # "https://github.com/umr1283/dmapaq",
   # "https://github.com/umr1283/dgapaq",
   # "https://github.com/umr1283/CARoT",
