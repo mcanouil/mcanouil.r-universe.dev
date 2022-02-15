@@ -1,19 +1,7 @@
 [
   {
-    "package": "CARoT",
-    "url": "https://github.com/umr1283/CARoT"
-  },
-  {
     "package": "clere",
     "url": "https://github.com/mcanouil/clere"
-  },
-  {
-    "package": "dgapaq",
-    "url": "https://github.com/umr1283/dgapaq"
-  },
-  {
-    "package": "dmapaq",
-    "url": "https://github.com/umr1283/dmapaq"
   },
   {
     "package": "eggla",
@@ -52,19 +40,11 @@
     "url": "https://github.com/mcanouil/NACHO"
   },
   {
-    "package": "rain",
-    "url": "https://github.com/umr1283/rain"
-  },
-  {
     "package": "rocketchatr",
     "url": "https://github.com/mcanouil/rocketchatr"
   },
   {
     "package": "snpEnrichment",
     "url": "https://github.com/mcanouil/snpEnrichment"
-  },
-  {
-    "package": "umr1283",
-    "url": "https://github.com/umr1283/umr1283"
   }
 ]
