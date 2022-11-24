@@ -8,10 +8,6 @@
     "url": "https://github.com/mcanouil/eggla"
   },
   {
-    "package": "ggFunctions",
-    "url": "https://github.com/mcanouil/ggFunctions"
-  },
-  {
     "package": "ggnetwork",
     "url": "https://github.com/briatte/ggnetwork"
   },
@@ -20,16 +16,8 @@
     "url": "https://github.com/mcanouil/ggpacman"
   },
   {
-    "package": "IMA2",
-    "url": "https://github.com/mcanouil/IMA2"
-  },
-  {
     "package": "insane",
     "url": "https://github.com/mcanouil/insane"
-  },
-  {
-    "package": "mc",
-    "url": "https://github.com/mcanouil/mc"
   },
   {
     "package": "MiSTr",
@@ -38,10 +26,6 @@
   {
     "package": "NACHO",
     "url": "https://github.com/mcanouil/NACHO"
-  },
-  {
-    "package": "rocketchatr",
-    "url": "https://github.com/mcanouil/rocketchatr"
   },
   {
     "package": "snpEnrichment",
