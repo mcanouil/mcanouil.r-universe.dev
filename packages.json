@@ -1,19 +1,7 @@
 [
   {
-    "package": "clere",
-    "url": "https://github.com/mcanouil/clere"
-  },
-  {
     "package": "eggla",
     "url": "https://github.com/mcanouil/eggla"
-  },
-  {
-    "package": "ggnetwork",
-    "url": "https://github.com/briatte/ggnetwork"
-  },
-  {
-    "package": "ggpacman",
-    "url": "https://github.com/mcanouil/ggpacman"
   },
   {
     "package": "insane",
@@ -26,13 +14,5 @@
   {
     "package": "NACHO",
     "url": "https://github.com/mcanouil/NACHO"
-  },
-  {
-    "package": "snpEnrichment",
-    "url": "https://github.com/mcanouil/snpEnrichment"
-  },
-  {
-    "package": "umr1283",
-    "url": "https://github.com/umr1283/umr1283"
   }
 ]
