@@ -3,18 +3,18 @@ urls <- c(
   # "https://github.com/mcanouil/ggFunctions",
   # "https://github.com/mcanouil/ggpacman",
   "https://github.com/mcanouil/MiSTr",
-  "https://github.com/mcanouil/snpEnrichment",
+  # "https://github.com/mcanouil/snpEnrichment",
   "https://github.com/mcanouil/clere",
   # "https://github.com/mcanouil/rocketchatr",
   "https://github.com/mcanouil/insane",
   "https://github.com/mcanouil/NACHO",
-  "https://github.com/mcanouil/eggla",
-  "https://github.com/umr1283/umr1283",
+  "https://github.com/mcanouil/eggla"#,
+  # "https://github.com/umr1283/umr1283",
   # "https://github.com/umr1283/dmapaq",
   # "https://github.com/umr1283/dgapaq",
   # "https://github.com/umr1283/CARoT",
   # "https://github.com/umr1283/rain",
-  "https://github.com/briatte/ggnetwork"
+  # "https://github.com/briatte/ggnetwork"
 )
 jsonlite::write_json(
   x = data.frame(
