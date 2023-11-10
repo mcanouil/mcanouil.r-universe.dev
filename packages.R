@@ -4,7 +4,7 @@ urls <- c(
   # "https://github.com/mcanouil/ggpacman",
   "https://github.com/mcanouil/MiSTr",
   # "https://github.com/mcanouil/snpEnrichment",
-  "https://github.com/mcanouil/clere",
+  # "https://github.com/mcanouil/clere",
   # "https://github.com/mcanouil/rocketchatr",
   "https://github.com/mcanouil/insane",
   "https://github.com/mcanouil/NACHO",
