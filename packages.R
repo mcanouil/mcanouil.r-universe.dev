@@ -1,7 +1,7 @@
 urls <- c(
   # "https://github.com/mcanouil/IMA2",
   # "https://github.com/mcanouil/ggFunctions",
-  "https://github.com/mcanouil/ggpacman",
+  # "https://github.com/mcanouil/ggpacman",
   "https://github.com/mcanouil/MiSTr",
   "https://github.com/mcanouil/snpEnrichment",
   "https://github.com/mcanouil/clere",
