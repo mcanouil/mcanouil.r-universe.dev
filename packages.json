@@ -1,9 +1,5 @@
 [
   {
-    "package": "eggla",
-    "url": "https://github.com/mcanouil/eggla"
-  },
-  {
     "package": "insane",
     "url": "https://github.com/mcanouil/insane"
   },
